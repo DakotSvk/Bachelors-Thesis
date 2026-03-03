@@ -22,3 +22,6 @@
 - Initial literature review on AI applications in the public sector.
 
 ### Week 2:
+- Further theory review
+- Made decisions on which tools to use
+- Made a website and github repository for the thesis.
