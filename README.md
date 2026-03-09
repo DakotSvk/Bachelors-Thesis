@@ -25,3 +25,9 @@
 - Further theory review
 - Made decisions on which tools to use
 - Made a website and github repository for the thesis.
+
+### Week 3:
+- Dowloaded a training datased
+- Installed and trained AI model
+- Tested AI model on manually colected data
+- Review on how to improve the accuracy of detection further
