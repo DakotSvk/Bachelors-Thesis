@@ -27,7 +27,12 @@
 - Made a website and github repository for the thesis.
 
 ### Week 3:
-- Dowloaded a training datased
+- Dowloaded a training dataset
 - Installed and trained AI model
 - Tested AI model on manually colected data
 - Review on how to improve the accuracy of detection further
+  
+### Week 4:
+- Further AI training on my own data
+- Basic script to detect potholes and log their gps coordinates to an interactive map from photos
+- Further data collection
