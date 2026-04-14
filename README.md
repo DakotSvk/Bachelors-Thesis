@@ -36,3 +36,19 @@
 - Further AI training on my own data
 - Basic script to detect potholes and log their gps coordinates to an interactive map from photos
 - Further data collection
+
+### Week 5:
+- Further AI training
+- Made script to detect and log potholes and their gps locations
+- Further data collection
+  
+### Week 6:
+- Fixed Errors in script
+- Retrained AI model from scratch
+
+### Week 7:
+- Meeting with supervisor about progress
+- Finished coding part of thesis
+  
+### Week 8:
+- Began the writing part of the thesis
